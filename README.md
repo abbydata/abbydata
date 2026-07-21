@@ -28,7 +28,7 @@ Here you'll find hands-on projects using both real-world and practice datasets:
 - SQL Queries/data analysis
 - Python data exploration
 - Business dashboards in Power BI and Excel
-- Data cleaning and visualization projects
+- Data cleaning and visualisation projects
 
 ---
 
@@ -36,8 +36,7 @@ Here you'll find hands-on projects using both real-world and practice datasets:
 - Advanced data storytelling techniques
 - Advanced data analytics concepts
 - Python for advanced data analysis
-- Statistical modeling and hypothesis testing
-- Big data analytics and visualization
+- Big data analytics and visualisation
 
 ---
 

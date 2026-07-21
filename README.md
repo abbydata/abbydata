@@ -49,4 +49,3 @@ Here you'll find hands-on projects using both real-world and practice datasets:
 ## 📫 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajibola-aishat-omolabake/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajibolaaishat5@gmail.com)
-- ajibolaaishat5@gmail.com

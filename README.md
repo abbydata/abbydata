@@ -4,9 +4,9 @@
 </div>
 </div>
 
-# Hi, I'm Omolabake 👋
+# Hi, I'm Abby 👋
 
-I'm a certified Data Analyst passionate about exploring data, uncovering insights, and presenting them in ways organizations can act on. As I continue to grow my expertise through hands-on projects, I leverage data storytelling to drive better business decisions and create social impact.
+A Data Analyst passionate about using data to help organisations make better decisions. I specialise in transforming raw data into actionable insights through data cleaning, analysis, visualisation, predictive modelling, and storytelling.
 
 ---
 

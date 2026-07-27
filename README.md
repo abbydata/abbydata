@@ -4,7 +4,7 @@
 </div>
 </div>
 
-# Hi, I'm Abby 👋
+# Hi, I'm Abby
 
 A Data Analyst passionate about using data to help organisations make better decisions. I specialise in transforming raw data into actionable insights through data cleaning, analysis, visualisation, predictive modelling, and storytelling.
 

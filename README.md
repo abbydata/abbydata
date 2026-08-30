@@ -6,7 +6,7 @@
 
 # Hi, I'm Abby 👋
 
-A Data Analyst passionate about using data to help organisations make better decisions. I specialise in transforming raw data into actionable insights through data cleaning, analysis, visualisation, predictive modelling, and storytelling.
+A Data Analyst dedicated to helping organisations make smarter decisions through data. Leveraging SQL, Python, Excel, Power BI, and Tableau, I specialise in transforming raw data into actionable insights via advanced analysis, data visualisation, predictive modelling, and compelling storytelling. With a strong background in sustainability, I bring a rigorous, research-focused, and evidence-based approach to every dataset.
 
 ---
 
@@ -15,10 +15,12 @@ A Data Analyst passionate about using data to help organisations make better dec
 <div align="center">
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=scipy&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 </div>
 
-- **Core Skills:** 🧹 Data Cleaning, 🔄 Data transformation,🔍 Exploratory Data Analysis (EDA), 📊 Dashboard Development, 📖 Data Storytelling, 🤔 Critical Thinking, 💬 Effective Communication, 🤝 Team work, 👂 Active listening, 🔀 Adaptability
+- **Core Skills:** 🧹 Data Cleaning, 🔄 Data transformation,🔍 Exploratory Data Analysis (EDA), 📊 Dashboard Development, 📖 Data Storytelling, 💬 Effective Communication, 🤝 Team work
 
 ---
 
@@ -27,16 +29,17 @@ Here you'll find hands-on projects using both real-world and practice datasets:
 - Excel data analysis
 - SQL Queries/data analysis
 - Python data exploration
-- Business dashboards in Power BI and Excel
 - Data cleaning and visualisation projects
+- Dashboards in Power BI and Excel
+
+> 📈 **Tableau Projects:** You can view my interactive dashboards and visualizations directly on my [Tableau Public Profile](https://public.tableau.com/app/profile/abbydata/vizzes).
 
 ---
 
 ## 📚 Currently Learning
-- Advanced data storytelling techniques
-- Advanced data analytics concepts
-- Python for advanced data analysis
-- Big data analytics and visualisation
+- **Data Science:** Predictive modeling and sentiment analysis
+- **NoSQL Databases:** Managing and analyzing unstructured data
+- **Data Storytelling:** Refining advanced techniques for communicating impactful insights
 
 ---
 

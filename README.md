@@ -4,7 +4,7 @@
 </div>
 </div>
 
-# Hi, I'm Abby 👋
+# Hi, I'm Abby
 
 A Data Analyst dedicated to helping organisations make smarter decisions through data. Leveraging SQL, Python, Excel, Power BI, and Tableau, I specialise in transforming raw data into actionable insights via advanced analysis, data visualisation, predictive modelling, and compelling storytelling. With a strong background in sustainability, I bring a rigorous, research-focused, and evidence-based approach to every dataset.
 

@@ -10,7 +10,7 @@ A Data Analyst dedicated to helping organisations make smarter decisions through
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 <div align="center">
 
@@ -24,7 +24,7 @@ A Data Analyst dedicated to helping organisations make smarter decisions through
 
 ---
 
-## 📊 Projects
+## Projects
 Here you'll find hands-on projects using both real-world and practice datasets:
 - Excel data analysis
 - SQL Queries/data analysis
@@ -32,23 +32,23 @@ Here you'll find hands-on projects using both real-world and practice datasets:
 - Data cleaning and visualisation projects
 - Dashboards in Power BI and Excel
 
-> 📈 **Tableau Projects:** You can view my interactive dashboards and visualizations directly on my [Tableau Public Profile](https://public.tableau.com/app/profile/abbydata/vizzes).
+> **Tableau Projects:** You can view my interactive dashboards and visualizations directly on my [Tableau Public Profile](https://public.tableau.com/app/profile/abbydata/vizzes).
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - **Data Science:** Predictive modeling and sentiment analysis
 - **NoSQL Databases:** Managing and analyzing unstructured data
 - **Data Storytelling:** Refining advanced techniques for communicating impactful insights
 
 ---
 
-## 🎯 My Focus
+## My Focus
 **Simplifying Data → Impactful Insights**  
 *Business • Sustainability • Social Impact*
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajibola-aishat-omolabake/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajibolaaishat5@gmail.com)

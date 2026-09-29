@@ -20,7 +20,7 @@ A Data Analyst dedicated to helping organisations make smarter decisions through
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 </div>
 
-- **Core Skills:** 🧹 Data Cleaning, 🔄 Data transformation,🔍 Exploratory Data Analysis (EDA), 📊 Dashboard Development, 📖 Data Storytelling, 💬 Effective Communication, 🤝 Team work
+- **Core Skills:** Data Cleaning, Data transformation, Exploratory Data Analysis (EDA), Dashboard Development, Data Storytelling, Effective Communication, Team work
 
 ---
 
